@@ -17,7 +17,7 @@ This hands-on demonstrates the deployment of a static HTML web application on th
 # Deployment Script For The Project
 Below is the bash script used to deploy the web app on an EC2 instance:
 
-...bash
+```bash
 #!/bin/bash
 sudo su
 yum update -y
