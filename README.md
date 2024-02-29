@@ -15,6 +15,9 @@ This hands-on demonstrates the deployment of a static HTML web application on th
 **Route 53** for domain registration and DNS management.
 
 # Deployment Script For The Project
+Below is the bash script used to deploy the web app on an EC2 instance:
+
+...bash
 #!/bin/bash
 sudo su
 yum update -y
@@ -26,6 +29,7 @@ cp -r /var/www/html/jupiter-site/* /var/www/html
 rm -rf jupiter.zip jupiter-main
 systemctl enable httpd
 systemctl start httpd
+...
 
 # Deployment Steps
 1. **Setting Up Infrastructure**
