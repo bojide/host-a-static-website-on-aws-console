@@ -43,7 +43,6 @@ systemctl start httpd
 - Launch EC2 Instances in the public subnets to host the website.
 - Configure EC2 Instance Connect Endpoint for connectivity.
 - Install Apache HTTP Server (httpd) on EC2 instances.
-- Download and deploy the static website files from GitHub using the provided script.
 
 3. **Load Balancing and Auto Scaling**
 - Set up an Application Load Balancer to distribute web traffic across EC2 instances.
