@@ -29,6 +29,7 @@ cp -r /var/www/html/jupiter-site/* /var/www/html
 rm -rf jupiter.zip jupiter-main
 systemctl enable httpd
 systemctl start httpd
+```
 
 # Deployment Steps
 1. **Setting Up Infrastructure**
