@@ -1,3 +1,6 @@
+![Alt text](Host Static Website - jide.jpg)
+
+---
 # Project Overview
 This hands-on demonstrates the deployment of a static HTML web application on the AWS console using various services and resources. The setup includes a Custom VPC with public and private subnets spread across multiple availability zones for high availability and fault tolerance. It utilizes an Application Load Balancer to distribute web traffic across EC2 instances hosted in the public subnets, providing scalability and elasticity through an Auto Scaling Group. Security is enforced using Security Groups and a Bastion Host, while NAT Gateway facilitates internet access for instances in private subnets
 
