@@ -81,7 +81,7 @@ systemctl start httpd
 6. **SNS**
 - Pub/sub messaging service used to send alerts and notifications (e.g., Auto Scaling activities, CloudWatch alarms).
 
-7. # The Final Outcome of the Project with my Custom Domain Name
+# The Final Outcome of the Project with my Custom Domain Name
  ***CHROME***
 - The static Website, viewed on the Google Chrome browser.
 
