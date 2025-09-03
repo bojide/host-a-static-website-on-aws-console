@@ -91,3 +91,5 @@ systemctl start httpd
 - The beauty of testing websites is to view them across multiple browsers.  
   
    ![Alt text](/static-webiste-safari.jpg)
+
+# Thank You!
