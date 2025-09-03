@@ -83,7 +83,4 @@ systemctl start httpd
 
 7. # The Final Outcome of the Project with my Custom Domain Name
 - Viewed on Google Chrome.
-  ![Alt text](/static-webiste-google-chrome.jpg)
-
-  - Viewed on Safari.
-  ![Alt text](/static-webiste-safari.jpg)
+  
