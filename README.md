@@ -82,5 +82,12 @@ systemctl start httpd
 - Pub/sub messaging service used to send alerts and notifications (e.g., Auto Scaling activities, CloudWatch alarms).
 
 7. # The Final Outcome of the Project with my Custom Domain Name
-- Viewed on Google Chrome.
+ ***CHROME***
+- The static Website, viewed on the Google Chrome browser.
+
+   ![Alt text](/static-webiste-google-chrome.jpg)
+
+  ***SAFARI***
+- The beauty of testing websites is to view them across multiple browsers.  
   
+   ![Alt text](/static-webiste-safari.jpg)
